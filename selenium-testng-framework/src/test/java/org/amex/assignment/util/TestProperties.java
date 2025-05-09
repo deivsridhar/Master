@@ -26,7 +26,7 @@ public class TestProperties {
 	}
 
 	/**
-	 * Gets the property.
+	 * Gets the properties.
 	 *
 	 * @param key the key
 	 * @return the property
